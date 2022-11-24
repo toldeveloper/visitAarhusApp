@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2098335.css",
+    "main.js": "/static/js/main.a75be8bc.js",
+    "static/js/787.a59dbbd1.chunk.js": "/static/js/787.a59dbbd1.chunk.js",
+    "static/media/highlight.png": "/static/media/highlight.06dff8be95bf3515c079.png",
+    "static/media/VisitDenmark-SemiBold.otf": "/static/media/VisitDenmark-SemiBold.afb900071dcef2ec872d.otf",
+    "static/media/VisitDenmark-Outline-Medium.otf": "/static/media/VisitDenmark-Outline-Medium.1294fafdecf84b7bffb6.otf",
+    "static/media/VisitDenmark-ExtraBold.otf": "/static/media/VisitDenmark-ExtraBold.264391f08fc48435b7ad.otf",
+    "static/media/VisitDenmark-Bold.otf": "/static/media/VisitDenmark-Bold.2b38862d9b66bd8e836a.otf",
+    "static/media/VisitDenmark-Regular.otf": "/static/media/VisitDenmark-Regular.b2693e190b3c3b48df16.otf",
+    "static/media/VisitDenmark-Outline-Regular.otf": "/static/media/VisitDenmark-Outline-Regular.06fd9d2738bfcae8d05d.otf",
+    "static/media/activities.jpg": "/static/media/activities.699cb196032b21a64fe8.jpg",
+    "static/media/attractions.jpg": "/static/media/attractions.5a6d6c72ff58c3b689ab.jpg",
+    "static/media/places-to-eat.jpg": "/static/media/places-to-eat.c46c8d2961810449f948.jpg",
+    "static/media/events.jpg": "/static/media/events.a812f29afeb44cd79816.jpg",
+    "static/media/logo.png": "/static/media/logo.87b51daaf1f4fffb50fc.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/img-placeholder.jpeg": "/static/media/img-placeholder.3c0a422b9d39f22e1be7.jpeg",
+    "static/media/language.png": "/static/media/language.31b8411e6b0e8952b3c8.png",
+    "index.html": "/index.html",
+    "main.f2098335.css.map": "/static/css/main.f2098335.css.map",
+    "main.a75be8bc.js.map": "/static/js/main.a75be8bc.js.map",
+    "787.a59dbbd1.chunk.js.map": "/static/js/787.a59dbbd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2098335.css",
+    "static/js/main.a75be8bc.js"
+  ]
+}
